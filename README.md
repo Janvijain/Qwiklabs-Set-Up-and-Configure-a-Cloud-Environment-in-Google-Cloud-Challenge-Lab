@@ -1,5 +1,5 @@
 # Qwiklabs Set Up and Configure a Cloud Environment in Google Cloud Challenge Lab                                        
-Step by Step guide to solve this challenge. Can also refer my video for the same : https://youtu.be/vmTl6P9bfLs                  
+Step by Step guide to solve this challenge. Can also refer my video for the same : https://youtu.be/h-hz12o_qvs                  
 
 # Task 1: Create development VPC manually                           
 Navigation menu->VPC Network->Create VPC Network->                                   
